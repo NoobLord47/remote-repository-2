@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    //cout<<"dont touch the code"<<endl;
+    cout<<"dont touch the code"<<endl;
 }
